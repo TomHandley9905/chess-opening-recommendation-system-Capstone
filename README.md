@@ -32,4 +32,4 @@ The system utilizes a **Random Forest classifier**, trained on the following fea
 ---
 
 **Contact:**  
-Tom Handley | [LinkedIn](www.linkedin.com/in/tom-handley-a8a0791a6) | [Email](mailto:tomhandley100@gmail.com)
+Tom Handley | LinkedIn (www.linkedin.com/in/tom-handley-a8a0791a6) Email: tomhandley100@gmail.com
