@@ -15,7 +15,7 @@ The system uses:
 - Uses real-time game data from Chess.com for inference.
 - Trained with a **Random Forest classifier** to provide robust predictions.
 - **Test Accuracy**: 94%
-- **Balanced Accuracy**: 94%
+- **Balanced Accuracy**: 95%
 - **F1 Score**: 94% (Weighted)
 
 ## Model Overview
